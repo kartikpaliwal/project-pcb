@@ -13,8 +13,9 @@ pcbs** .
 
 And we are supposed to do following things with it-
 
-Objective 1. To classify the testing PCB images into corresponding categories(12 categories).
-Objective 2. To identify whether the given image has PCB or Not in real time?
+**Objective 1**. To classify the testing PCB images into corresponding categories(12 categories).
+
+**Objective 2**. To identify whether the given image has PCB or Not in real time?
 
 
 
